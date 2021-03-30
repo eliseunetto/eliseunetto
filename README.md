@@ -4,7 +4,7 @@
 
 **Hello guys! I live in São Paulo, Brazil, I have a degree in Information Systems and I love to learn new things daily.**
 
-**I am currently looking for new opportunities job Java development.**
+**Thinking about the developer community, I would like to share with you some things**
 
 ##
 
