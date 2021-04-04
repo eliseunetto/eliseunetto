@@ -19,6 +19,10 @@
 	<a href="https://twitter.com/eliseunetto"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/eliseunetto/count.svg" />
+ </p>
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
